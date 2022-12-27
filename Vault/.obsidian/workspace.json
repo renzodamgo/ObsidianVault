@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huberman Lab Podcast/Master Your Sleep & Be More Alert When Awake.md",
+                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b82107d27c48c886",
+            "id": "b0050e370fcfbf9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huberman Lab Podcast/Master Your Sleep & Be More Alert When Awake.md",
+                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Huberman Lab Podcast/Master Your Sleep & Be More Alert When Awake.md",
+                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Huberman Lab Podcast/Master Your Sleep & Be More Alert When Awake.md",
+                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Huberman Lab Podcast/Master Your Sleep & Be More Alert When Awake.md"
+                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b82107d27c48c886",
+  "active": "2f71e07cee2f1c03",
   "lastOpenFiles": [
+    "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
+    "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
     "Research/Yoga Nidra.md",
-    "Huberman Lab Podcast/Master Your Sleep & Be More Alert When Awake.md",
     "Untitled.canvas",
     "ee.md",
     "2022-12-27.md",

@@ -1,5 +1,4 @@
 #hubermanlab #sleep 
-[Youtube video](https://www.youtube.com/watch?v=nm1TxQj9IsQ&t=3154s)
 [Podcast](https://podcasts.apple.com/pe/podcast/huberman-lab/id1545953110?i=1000504980563)
 The neurons on the eye looks for the sun is low in the sky. **Get sunlight in your eyes as close to waking as posible**. Is you can watch the sunrise great.
 
