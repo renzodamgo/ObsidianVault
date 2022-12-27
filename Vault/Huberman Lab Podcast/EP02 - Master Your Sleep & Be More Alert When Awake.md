@@ -18,6 +18,9 @@ I'ts fifty time times less effective to watch sunlight on a window instead of wa
 Activate the parasympatetic system that help calm us to help sleep. 
 [Hipnosis scripts to help sleep](www.reveriehealth.com)
 
-### Todo
+
 - [ ] Investigate Yoga Nidra
 - [ ] Investigate NSDR
+
+- [ ] [Ivestiage Yoga Nidra #Research ](things:///show?id=NTJQ2gm8g5cSy5PnL32hKb)
+- [ ] 

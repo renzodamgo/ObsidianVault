@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
+                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
+                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
+                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md"
+                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md"
               }
             }
           }
@@ -160,10 +159,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f71e07cee2f1c03",
+  "active": "954625d342e474f7",
   "lastOpenFiles": [
-    "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
     "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
+    "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
     "Research/Yoga Nidra.md",
     "Untitled.canvas",
     "ee.md",
