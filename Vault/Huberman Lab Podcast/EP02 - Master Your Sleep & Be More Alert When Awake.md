@@ -19,6 +19,7 @@ Activate the parasympatetic system that help calm us to help sleep.
 [Hipnosis scripts to help sleep](www.reveriehealth.com)
 
 
-Investigate Yoga Nidra
-Investigate NSDR
+- [ ] [Investigate Yoga Nidra](things:///show?id=5bS5TBn2cXoLuum9SLBYPR)
+- [ ] [Investigate NSDR](things:///show?id=QAKFv44Q3w7kLDqb4BybJc)
+- [ ] 
 
