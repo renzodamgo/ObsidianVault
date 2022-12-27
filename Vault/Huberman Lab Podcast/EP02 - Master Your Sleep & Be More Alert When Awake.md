@@ -21,5 +21,7 @@ Activate the parasympatetic system that help calm us to help sleep.
 
 - [ ] [Investigate Yoga Nidra](things:///show?id=5bS5TBn2cXoLuum9SLBYPR)
 - [ ] [Investigate NSDR](things:///show?id=QAKFv44Q3w7kLDqb4BybJc)
+- [ ] [Test #Research](things:///show?id=7HhgjNHKpTVDHjkFEGNcsR)
+- [x] [dsadsa](things:///show?id=U4AiKNyzCqfjHasHESm3P9)
 - [ ] 
 
