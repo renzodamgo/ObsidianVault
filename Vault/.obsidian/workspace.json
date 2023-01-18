@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "59ab2726fbf557b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosas/Miércoles 8 de enero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b0050e370fcfbf9a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
+                "file": "Cosas/Miércoles 8 de enero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
+                "file": "Cosas/Miércoles 8 de enero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md"
+                "file": "Cosas/Miércoles 8 de enero.md"
               }
             }
           }
@@ -159,10 +172,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "954625d342e474f7",
+  "active": "59ab2726fbf557b8",
   "lastOpenFiles": [
-    "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
     "Huberman Lab Podcast/EP02 - Master Your Sleep & Be More Alert When Awake.md",
+    "Huberman Lab Podcast/EP03 - Optimize Sleep, Learning & Metabolism.md",
     "Research/Yoga Nidra.md",
     "Untitled.canvas",
     "ee.md",
